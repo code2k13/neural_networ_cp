@@ -1,3 +1,5 @@
+Files
+-------------
 adafruit_displayio_ssd1306.mpy
 adafruit_simple_text_display.mpy
 displayio_types.mpy
@@ -10,6 +12,9 @@ adafruit_framebuf.mpy
 adafruit_pixel_framebuf.mpy
 adafruit_st7735r.mpy
 font5x8.bin
+
+Directories
+---------------
 adafruit_rgb_display
 adafruit_bitmap_font
 adafruit_display_notification
@@ -19,3 +24,4 @@ adafruit_imageload
 adafruit_register
 adafruit_ov7670.mpy
 adafruit_display_emoji_text.mpy
+
